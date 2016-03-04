@@ -33,6 +33,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem "figaro"
 
+
+gem 'letter_opener', group: :development
+
 # Bootstrap for look and feel
 gem 'bootstrap-sass'
 
